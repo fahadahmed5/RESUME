@@ -19,9 +19,9 @@
 💪🏼 Future Goals - Learn more technologies - Never stop creating new ideas <br>
 ⚡️ Reach me - mohammedfahadahmed@gmail.com <br>
 
-<h2 align="left">
+<h3 align="left">
 TECH STACK
-</h2>
+</h3>
 
 
 
