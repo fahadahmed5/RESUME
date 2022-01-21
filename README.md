@@ -3,7 +3,7 @@
 <img width="100%" height = "100%" src="https://i.ytimg.com/vi/RjBmQRWCfD8/maxresdefault.jpg" alt="cover" />
 </div>
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 50px height = 20px > </h1>
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 100px height = 20px > </h1>
 <p align='center'>
 </p>
   
