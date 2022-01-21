@@ -43,9 +43,8 @@
   
  
 <p align="center">
-<h3 align="center">:bar_chart: GitHub Stats</h1>
+GitHub Stats
 	
-
 ![Github stats](https://github-readme-stats.vercel.app/api?username=fahadahmed5&show_icons=true&locale=en)
 ![github streak](https://github-readme-streak-stats.herokuapp.com/?user=fahadahmed5&)
 
