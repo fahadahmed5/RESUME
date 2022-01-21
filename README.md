@@ -44,7 +44,7 @@
  
 <Br>
 <hr>
-GitHub Stats
+🎢 GitHub Stats
 <Br>
 <Br>
 	
