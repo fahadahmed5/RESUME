@@ -22,7 +22,6 @@
 
 
 <h3 align="left">TECH STACK 🤸‍♂</h3>
-<Br>
 <hr>
 
 ⚙️ Skills 
