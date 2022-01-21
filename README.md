@@ -21,7 +21,7 @@
 
 
 
-<h3 align="left">TECH STACK 🤸‍♂</h3>
+<h3 align="left" style=for-the-badge >TECH STACK 🤸‍♂</h3>
 <hr>
 
 ⚙️ Skills 
