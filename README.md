@@ -24,7 +24,7 @@
 <h3 align="left" style=for-the-badge >TECH STACK 🤸‍♂</h3>
 <hr>
 
-⚙️<h4 style=for-the-badge> Skills </h4>
+⚙️ Skills 
 <Br>
 
 |![](https://img.shields.io/badge/Artificial%20Intelligence-grey?style=for-the-badge)|![](https://img.shields.io/badge/Machine%20Learning-red?style=for-the-badge)|![](https://img.shields.io/badge/Deep%20Learning-red?style=for-the-badge)|![](https://img.shields.io/badge/Computer%20Vision-red?style=for-the-badge)|![](https://img.shields.io/badge/Neural%20Networks-red?style=for-the-badge)|
@@ -33,7 +33,7 @@
  
 <Br>
 <hr>
-⚒ <h4 style=for-the-badge> Tools and Libraries </h4>
+⚒ Tools and Libraries
 <Br>
 <Br>
   
