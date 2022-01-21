@@ -17,15 +17,23 @@
 🌱 Actively looking for internships in the field of AI and ML<br>
 👯 I’m looking to collaborate on Projects and Tech Articles <br>
 💪🏼 Future Goals - Learn more technologies - Never stop creating new ideas <br>
-⚡️ Reach me - mohammedfahadahmed@gmail.com <br>
+📫 Reach me - mohammedfahadahmed@gmail.com <br>
 
-<h3 align="left">
-TECH STACK
-</h3>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+
+<h1 align="center">Skills I have! 🤸‍♂</h1>
+<Br>
+  
+|![](https://img.shields.io/badge/Machine%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/ML-Supervized%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/ML-Unsupervized%20Learning-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Web%20Scraping-red?style=for-the-badge)|![](https://img.shields.io/badge/Dashboards-red?style=for-the-badge)|
+|---|---|---|---|---|
+|![](https://img.shields.io/badge/Data%20Science-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Cleaning-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Analysis-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Visualization-blue?style=for-the-badge)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|
+  
+  
+<Br>
+<hr>
+<Br>
+
+  
 
 
 
