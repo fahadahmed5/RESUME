@@ -9,7 +9,7 @@
     <img src="https://komarev.com/ghpvc/?username=fahadahmed5&label=Views&color=red&style=flat-square" alt="views on github" height="28px"/>
   </a>
   </h3>   
-<h2> Hey there , Im Fahad ! <img src = "https://c.tenor.com/xS_t2ANBv9UAAAAj/elsalla.gif" width = 40px height = 20px > </h2>
+<h2> Hey there , Im Fahad !</h2>
 <p align='center'>
 </p>
 <img width="30%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
