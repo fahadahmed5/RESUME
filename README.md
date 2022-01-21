@@ -4,8 +4,8 @@
 </div>
   <a href="https://github.com/fahadahmed5" target="_blank">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/fahadahmed5?label=Github%20followers&style=for-the-badge">
-  </a> <br> <br>
-  <a href="https://github.com/IsratIJK" target="_blank">
+  </a> 
+  <a href="https://github.com/fahadahmed5" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=fahadahmed5&label=Views&color=brightgreen&style=flat-square" alt="views on github" />
   </a>
   </h3>   
