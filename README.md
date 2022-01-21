@@ -37,9 +37,8 @@
 <Br>
 <Br>
   
-|![](https://img.shields.io/badge/Numpy,Pandas,Scipy-yellow?style=for-the-badge)|![](https://img.shields.io/badge/Machine%20Learning-red?style=for-the-badge)|![](https://img.shields.io/badge/Deep%20Learning-red?style=for-the-badge)|![](https://img.shields.io/badge/Computer%20Vision-red?style=for-the-badge)|![](https://img.shields.io/badge/Neural%20Networks-red?style=for-the-badge)|
-|---|---|---|---|---|
-|![](https://img.shields.io/badge/Data%20Science-blue?style=for-the-badge)|![](https://img.shields.io/badge/Data%20Cleaning-red?style=for-the-badge)|![](https://img.shields.io/badge/Data%20Analysis-red?style=for-the-badge)|![](https://img.shields.io/badge/Data%20Visualization-red?style=for-the-badge)|![](https://img.shields.io/badge/And%20More!-red?style=for-the-badge)|  
+|![](https://img.shields.io/badge/Numpy,Pandas,Scipy-yellow?style=for-the-badge)|![](https://img.shields.io/badge/Matplotlib,Seaborn,Plotly-red?style=for-the-badge)|![](https://img.shields.io/badge/Keras,Tensorflow,Pytorch,Opencv-red?style=for-the-badge)|![](https://img.shields.io/badge/PowerBI,Tableau-red?style=for-the-badge)|![](https://img.shields.io/badge/Pycharm,Jupyter-red?style=for-the-badge)|
+
   
   
 
