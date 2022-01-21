@@ -42,8 +42,11 @@
 |![](https://img.shields.io/badge/Pytorch,OpenCV-grey?style=for-the-badge)|![](https://img.shields.io/badge/Beautifulsoup-grey?style=for-the-badge)|![](https://img.shields.io/badge/Flask,Heroku-grey?style=for-the-badge)|![](https://img.shields.io/badge/Selinium-grey?style=for-the-badge)|![](https://img.shields.io/badge/And%20More!-grey?style=for-the-badge)|  
   
  
-<p align="center">
+<Br>
+<hr>
 GitHub Stats
+<Br>
+<Br>
 	
 ![Github stats](https://github-readme-stats.vercel.app/api?username=fahadahmed5&show_icons=true&locale=en)
 ![github streak](https://github-readme-streak-stats.herokuapp.com/?user=fahadahmed5&)
