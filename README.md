@@ -41,13 +41,7 @@
 |---|---|---|---|---|
 |![](https://img.shields.io/badge/Pytorch,OpenCV-grey?style=for-the-badge)|![](https://img.shields.io/badge/Beautifulsoup-grey?style=for-the-badge)|![](https://img.shields.io/badge/Flask,Heroku-grey?style=for-the-badge)|![](https://img.shields.io/badge/Selinium-grey?style=for-the-badge)|![](https://img.shields.io/badge/And%20More!-grey?style=for-the-badge)|  
   
-  
-<p align="center">
-	<a href="https://github.com/fahadahmed5"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
-	<a href="https://www.linkedin.com/in//"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
-	<a href="https://twitter.com/"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
-</p>
-
+ 
 <p align="center">
 <h3 align="center">:bar_chart: GitHub Stats</h1>
 	
@@ -57,9 +51,11 @@
 
 
 </p>
-
-
-
+<p align="center">
+	<a href="https://github.com/fahadahmed5"><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
+	<a href="https://www.linkedin.com/in//"><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png"/></a>
+	<a href="https://twitter.com/"><img alt="twitter" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/twitter.png"/></a>
+</p>
   
   
 
