@@ -26,7 +26,7 @@
 
 |![](https://img.shields.io/badge/Artificial%20Intelligence-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Machine%20Learning-red?style=for-the-badge)|![](https://img.shields.io/badge/Deep%20Learning-red?style=for-the-badge)|![](https://img.shields.io/badge/Computer%20Vision-red?style=for-the-badge)|![](https://img.shields.io/badge/Neural%20Networks-red?style=for-the-badge)|
 |---|---|---|---|---|
-|![](https://img.shields.io/badge/Data%20Science-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Cleaning-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Analysis-blue?style=for-the-badge)|![](https://img.shields.io/badge/DS-Data%20Visualization-blue?style=for-the-badge)|![](https://img.shields.io/badge/And%20More!-yellow?style=for-the-badge)|  
+|![](https://img.shields.io/badge/Data%20Science-blue?style=for-the-badge)|![](https://img.shields.io/badge/Data%20Cleaning-red?style=for-the-badge)|![](https://img.shields.io/badge/Data%20Analysis-red?style=for-the-badge)|![](https://img.shields.io/badge/Data%20Visualization-red?style=for-the-badge)|![](https://img.shields.io/badge/And%20More!-red?style=for-the-badge)|  
   
 <Br>
 <hr>
