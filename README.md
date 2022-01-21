@@ -52,9 +52,7 @@
 <h1 align="center">:bar_chart: GitHub Stats</h1>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=fahadahmed5&show_icons=true&locale=en)
-
 ![language stats](https://github-readme-stats.vercel.app/api/top-langs?username=fahadahmed5&show_icons=true&locale=en&layout=compact)
-
 ![github streak](https://github-readme-streak-stats.herokuapp.com/?user=fahadahmed5&)
 </p>
 
