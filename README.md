@@ -6,7 +6,9 @@
 <h1> Hey there , Im Fahad ! <img src = "https://c.tenor.com/xS_t2ANBv9UAAAAj/elsalla.gif" width = 40px height = 20px > </h1>
 <p align='center'>
 </p>
-[![Github](https://img.shields.io/github/followers/fahadahmed5?label=Follow&style=social)](https://github.com/fahadahmed5)
+<h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 100px></h2>
+
+<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 🔭 I’m currently pursuing my masters in Machine Learning and Artificial Intelligence from "uni name"<br>
 🌱 Actively looking for internships in the field of Machine Learning and Artificial Intelligence<br>
 💬 Reach me - mohammedfahadahmed@gmail.com <br>
