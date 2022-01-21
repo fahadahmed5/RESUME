@@ -39,7 +39,7 @@
   
 |![](https://img.shields.io/badge/Numpy,Pandas-yellow?style=for-the-badge)|![](https://img.shields.io/badge/Matplotlib,Seaborn-red?style=for-the-badge)|![](https://img.shields.io/badge/Keras,Tensorflow-green?style=for-the-badge)|![](https://img.shields.io/badge/PowerBI,Tableau-darkblue?style=for-the-badge)|![](https://img.shields.io/badge/Pycharm,Jupyter-pink?style=for-the-badge)|
 |---|---|---|---|---|
-|![](https://img.shields.io/badge/Pytorch,OpenCV-purple?style=for-the-badge)|![](https://img.shields.io/badge/Beautifulsoup-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Flask,Heroku-navyblue?style=for-the-badge)|![](https://img.shields.io/badge/Selinium-orange?style=for-the-badge)|![](https://img.shields.io/badge/And%20More!-red?style=for-the-badge)|  
+|![](https://img.shields.io/badge/Pytorch,OpenCV-purple?style=for-the-badge)|![](https://img.shields.io/badge/Beautifulsoup-brightgreen?style=for-the-badge)|![](https://img.shields.io/badge/Flask,Heroku-navyblue?style=for-the-badge)|![](https://img.shields.io/badge/Selinium-orange?style=for-the-badge)|![](https://img.shields.io/badge/And%20More!-grey?style=for-the-badge)|  
 
 
   
