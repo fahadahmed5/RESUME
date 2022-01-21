@@ -6,7 +6,7 @@
 <h1> Hey there , Im Fahad ! <img src = "https://c.tenor.com/xS_t2ANBv9UAAAAj/elsalla.gif" width = 40px height = 20px > </h1>
 <p align='center'>
 </p>
-<img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="30%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 🔭 I’m currently pursuing my masters in Machine Learning and Artificial Intelligence from "uni name"<br>
 🌱 Actively looking for internships in the field of Machine Learning and Artificial Intelligence<br>
 👯 I’m looking to collaborate on Projects and Tech Articles <br>
