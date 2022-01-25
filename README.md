@@ -13,7 +13,7 @@
 <p align='center'>
 </p>
 <img width="30%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
-🔭 I’m currently pursuing my masters in Machine Learning and Artificial Intelligence <br>
+🔭 I’m currently pursuing Post Graduate Certification in Artificial Intelligence and Machine Learning <br>
 🌱 Actively looking for internships in the field of AI and ML<br>
 👯 I’m looking to collaborate on Projects and Tech Articles <br>
 💪🏼 Future Goals - Learn more technologies - Never stop creating new ideas <br>
